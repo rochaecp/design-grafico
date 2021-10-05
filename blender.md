@@ -61,7 +61,6 @@
 
 - Ray Tracing
 
-
 ## How to
 
 ### Criar uma caneca
